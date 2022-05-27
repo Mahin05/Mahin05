@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mahin
+- ✨ I'm a junior web developer(react,node,express,mongdodb)
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django, OpenCV, ML, PyQt5, AI & More...
 - 💞️ I’m looking to collaborate on Doing Joint Projects
