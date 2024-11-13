@@ -1,11 +1,3 @@
 - 👋 Hi, I’m @Mahin
-- ✨ I'm a junior web developer(react,node,express,mongdodb)
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django, OpenCV, ML, PyQt5, AI & More...
+- ✨ I'm a Full stack developer asp.net core mvc.
 - 💞️ I’m looking to collaborate on Doing Joint Projects
-- 📫 How to reach me https://mahin05.pythonanywhere.com/
-
-<!---
-Mahin05/Mahin05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
